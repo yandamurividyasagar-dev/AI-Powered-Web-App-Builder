@@ -2,6 +2,8 @@
 
 > Describe what you want. Get a working web app in seconds.
 
+🚀 **[Live Demo → ai-powered-web-app-builder-client.onrender.com](https://ai-powered-web-app-builder-client.onrender.com)**
+
 https://github.com/user-attachments/assets/3908e4e5-5988-4c39-8769-47da5900e2ed
 
 ---
@@ -157,7 +159,14 @@ POST   /api/generate/:projectId   Generate code from a prompt (auth required)
 
 ## Deployment
 
-> Coming soon — deployment guide for Render (backend) + Vercel (frontend)
+The app is deployed on **Render** (both frontend and backend).
+
+| Service | URL |
+|---------|-----|
+| Frontend | [ai-powered-web-app-builder-client.onrender.com](https://ai-powered-web-app-builder-client.onrender.com) |
+| Backend | Render (Node.js web service) |
+
+> **Note:** Free tier on Render spins down after inactivity — first load may take ~30 seconds to wake up.
 
 ---
 
